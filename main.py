@@ -23,9 +23,15 @@ Mi nombre es Laura Isabel Agudelo, tengo 33 años y soy Animadora Digital, dise�
 donde le enseño a las mujeres sobre alimentación cíclica, me gusta mucho leer y compartir el conocimiento que voy adquiriendo, disfruto pintar con acuarelas, y estoy aprendiendo a programar.
 
 Mi compañero Wilmer es Ingeniero Industrial, con formación integral en análisis de procesos, gestión de proyectos, atención al cliente y mejora continua, enfocado en la optimización de sistemas organizacionales
- bajo principios de eficiencia operativa y sostenibilidad. Cuenta con experiencia en sectores productivos y de servicios, donde ha liderado estrategias orientadas al control de inventarios, análisis de datos operativos, gestión de indicadores clave de rendimiento (KPI) y aplicación de metodologías Lean Six Sigma.
+bajo principios de eficiencia operativa y sostenibilidad. Cuenta con experiencia en sectores productivos y de servicios, donde ha liderado estrategias orientadas al control de inventarios, análisis de datos operativos, gestión de indicadores clave de rendimiento (KPI) y aplicación de metodologías Lean Six Sigma.
 
- Mi compañero Anibal Baena y es un apasionado por la tecnología y la programación. Está muy motivado conociendo como funciona la tokenización, entendiendo que es la base funcional del lenguaje natural para las máquinas.
+Mi compañero Anibal Baena, es Ingeniero de sistemas especialista en TIC´s; es un apasionado por la tecnología y la programación; tiene 51 años y está muy motivado conociendo como funciona la tokenizacion, entendiendo que es la base funcional del lenguaje natural para las máquinas.
+
+Mi compañera Laura Yuliana Arias Ortiz, tiene 29 años, es auxiliar administrativa, pero Diseñadora Crossmedia de profesión
+sus hobbies son, ir a cine, salir a pasear en su moto, bailar, hacer manualidades y salir a comer
+
+Mi compañera Paola Aguirre, es tecnologa en análisis y desarrollo de sistemas, estudiante de ingeniería de sistemas, tiene 40 años, y sus hobbies son pasear y la tecnología.
+
 """
 
 # Tokenización: Convertimos el texto en una lista de palabras individuales
